@@ -57,8 +57,7 @@ begin
 Qbar=~D;
 end
  endmodule
-``
-
+```
 ## RTL LOGIC FOR FLIPFLOPS:
 ![image](https://github.com/Abburehan/D-FLIPDLOP-NEGEDGE/assets/138849336/d7c43f91-4fd5-4e1e-a0da-65025a7a176a)
 
