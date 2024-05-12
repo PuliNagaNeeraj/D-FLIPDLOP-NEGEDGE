@@ -67,3 +67,11 @@ end
 
 ## RESULTS:
  Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
+## RTL LOGIC FOR FLIPFLOPS:
+![image](https://github.com/Abburehan/D-FLIPDLOP-NEGEDGE/assets/138849336/d7c43f91-4fd5-4e1e-a0da-65025a7a176a)
+
+## TIMING DIGRAMS FOR FLIP FLOPS:
+![image](https://github.com/Abburehan/D-FLIPDLOP-NEGEDGE/assets/138849336/51ce3b35-d95b-48ae-bd1c-bbf7add43c62)
+
+## RESULTS:
+ Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
